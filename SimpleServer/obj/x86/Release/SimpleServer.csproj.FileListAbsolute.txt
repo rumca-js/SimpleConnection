@@ -1,0 +1,4 @@
+C:\Users\vpz\documents\visual studio 2010\Projects\SimpleClient\SimpleServer\bin\Release\SimpleServer.exe
+C:\Users\vpz\documents\visual studio 2010\Projects\SimpleClient\SimpleServer\bin\Release\SimpleServer.pdb
+C:\Users\vpz\documents\visual studio 2010\Projects\SimpleClient\SimpleServer\obj\x86\Release\SimpleServer.exe
+C:\Users\vpz\documents\visual studio 2010\Projects\SimpleClient\SimpleServer\obj\x86\Release\SimpleServer.pdb
