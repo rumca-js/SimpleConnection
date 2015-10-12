@@ -7,11 +7,23 @@ namespace SimpleServer
 {
     class Server
     {
-        String myIP = "192.168.0.71";
         int myPort = 8001;
         Socket s = null;
         TcpListener myList = null;
         bool shouldFinish = false;
+
+        public static string GetLocalIPAddress()
+        {
+            var host = Dns.GetHostEntry(Dns.GetHostName());
+            foreach (var ip in host.AddressList)
+            {
+                if (ip.AddressFamily == AddressFamily.InterNetwork)
+                {
+                    return ip.ToString();
+                }
+            }
+            throw new Exception("Local IP Address Not Found!");
+        }
 
         public void open()
         {
@@ -22,7 +34,7 @@ namespace SimpleServer
                     cleanup();
                 };
 
-                IPAddress ipAd = IPAddress.Parse(myIP); //use local m/c IP address, and use the same in the client
+                IPAddress ipAd = IPAddress.Parse(GetLocalIPAddress() ); //use local m/c IP address, and use the same in the client
 
                 /* Initializes the Listener */
                 myList = new TcpListener(ipAd, myPort);
