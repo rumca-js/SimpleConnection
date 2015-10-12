@@ -1,4 +1,0 @@
-C:\Users\vpz\documents\visual studio 2010\Projects\SimpleClient\SimpleServer\bin\Debug\SimpleServer.exe
-C:\Users\vpz\documents\visual studio 2010\Projects\SimpleClient\SimpleServer\bin\Debug\SimpleServer.pdb
-C:\Users\vpz\documents\visual studio 2010\Projects\SimpleClient\SimpleServer\obj\x86\Debug\SimpleServer.exe
-C:\Users\vpz\documents\visual studio 2010\Projects\SimpleClient\SimpleServer\obj\x86\Debug\SimpleServer.pdb

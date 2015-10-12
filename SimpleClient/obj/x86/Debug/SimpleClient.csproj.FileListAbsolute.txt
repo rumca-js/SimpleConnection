@@ -1,8 +1,0 @@
-C:\Users\vpz\AppData\Local\Temporary Projects\SimpleClient\bin\Debug\SimpleClient.exe
-C:\Users\vpz\AppData\Local\Temporary Projects\SimpleClient\bin\Debug\SimpleClient.pdb
-C:\Users\vpz\AppData\Local\Temporary Projects\SimpleClient\obj\x86\Debug\SimpleClient.exe
-C:\Users\vpz\AppData\Local\Temporary Projects\SimpleClient\obj\x86\Debug\SimpleClient.pdb
-C:\Users\vpz\documents\visual studio 2010\Projects\SimpleClient\SimpleClient\obj\x86\Debug\SimpleClient.exe
-C:\Users\vpz\documents\visual studio 2010\Projects\SimpleClient\SimpleClient\obj\x86\Debug\SimpleClient.pdb
-C:\Users\vpz\documents\visual studio 2010\Projects\SimpleClient\SimpleClient\bin\Debug\SimpleClient.exe
-C:\Users\vpz\documents\visual studio 2010\Projects\SimpleClient\SimpleClient\bin\Debug\SimpleClient.pdb
